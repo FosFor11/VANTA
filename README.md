@@ -1,4 +1,4 @@
-﻿# VANTA
+# VANTA
 
 **Vulnerability & Attack-surface Network Threat Analyzer**
 
@@ -54,4 +54,4 @@ Review generated reports before sharing them. They may contain target hostnames,
 
 ## License
 
-A license has not yet been selected. Until a license is added, do not assume that the project is available for unrestricted reuse, modification, or redistribution.
+VANTA is licensed under the GNU General Public License v3.0 (GPL-3.0). See [LICENSE](LICENSE) for the full license text.
