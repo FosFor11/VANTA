@@ -1,0 +1,6 @@
+{
+  "safe_mode": true,
+  "timeout": 8,
+  "user_agent": "VANTA-Security-Auditor/1.0",
+  "max_subdomains": 20
+}
